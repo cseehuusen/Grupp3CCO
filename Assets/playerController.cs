@@ -5,9 +5,12 @@ using UnityEngine;
 public class playerController : MonoBehaviour
 {
     public float speed;
+    
 
     Rigidbody2D rb2d;
     private Animator anim;
+
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -33,6 +36,8 @@ public class playerController : MonoBehaviour
 
         anim.SetFloat("Movement.X", rb2d.velocity.x);
         anim.SetFloat("Movement.Y", rb2d.velocity.y);
+      
+
         if (rb2d.velocity.x == 0 && rb2d.velocity.y == 0)
         {
             anim.SetBool("noInput", true);
@@ -42,5 +47,6 @@ public class playerController : MonoBehaviour
 
        
     }
+    
 }
 
