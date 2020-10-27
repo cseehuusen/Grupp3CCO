@@ -5,6 +5,7 @@ using UnityEngine;
 public class playerController : MonoBehaviour
 {
     public float speed;
+    public int health = 100;
     
 
     Rigidbody2D rb2d;
@@ -47,6 +48,20 @@ public class playerController : MonoBehaviour
 
        
     }
-    
+    public void TakeDamage(int damage)
+    {
+        health -= damage;
+
+        if (health <= 0)
+        {
+            Die();
+        }
+
+    }
+    void Die()
+    {
+        Destroy(gameObject);
+    }
+
 }
 

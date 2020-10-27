@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
+    public int health = 100;
+
     public Transform player;
     public float moveSpeed = 5f;
     private Rigidbody2D rb;
@@ -34,13 +36,36 @@ public class Enemy : MonoBehaviour
     {
         rb.MovePosition((Vector2)transform.position + (direction * moveSpeed * Time.deltaTime));
     }
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-     anim.SetBool("meleeRange", true);
-    }
-    private void OnCollisionExit2D(Collision2D collision)
-    {
-     anim.SetBool("meleeRange", false);
-    }
 
+        private void OnCollisionEnter2D(Collision2D collision)
+        {
+         anim.SetBool("meleeRange", true);     
+        }
+
+        private void OnCollisionExit2D(Collision2D collision)
+        {
+         anim.SetBool("meleeRange", false);
+        }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        playerController player = collision.GetComponent<playerController>();
+        if (player != null)
+        {
+            player.TakeDamage(5);
+        }
+    }
+        public void TakeDamage (int damage)
+         {
+            health -= damage;
+
+            if (health <=0)
+            {
+                Die();
+            }
+
+         }
+    void Die()
+    {
+        Destroy(gameObject);
+    }
 }
