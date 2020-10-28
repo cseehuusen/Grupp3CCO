@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: b8a72d2a17c9e5646af7311679998f4c
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Parking.unity
+    guid: b3d113721ab2a0b49badac45c09305e5
+  - enabled: 1
+    path: Assets/Scenes/Indoor.unity
+    guid: 0a44c7ee50b43f849b4bd1e494a9ad18
+  - enabled: 1
+    path: Assets/Scenes/Chrills.unity
+    guid: 70f0b951ebce2cc47a64414199313654
   m_configObjects: {}
