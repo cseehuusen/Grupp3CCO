@@ -66,6 +66,8 @@ public class Enemy : MonoBehaviour
          }
     void Die()
     {
+        Data.Kills +=1;
         Destroy(gameObject);
+        Debug.Log("antal kills är nu " + Data.Kills);
     }
 }
