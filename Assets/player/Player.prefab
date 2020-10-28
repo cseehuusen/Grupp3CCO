@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 882350340003586292}
   - component: {fileID: 882350340003586290}
   - component: {fileID: 882350340003586291}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: InvisibleGun
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -81,7 +81,7 @@ GameObject:
   - component: {fileID: 882350340757456736}
   - component: {fileID: -3701644516703310630}
   - component: {fileID: 4865398407510919663}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}

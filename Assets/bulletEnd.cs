@@ -4,8 +4,14 @@ using UnityEngine;
 
 public class bulletEnd : MonoBehaviour
 {
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        Destroy(gameObject);
+        Enemy enemy = collision.GetComponent<Enemy>();
+        if (enemy !=null)
+        {
+            enemy.TakeDamage(100);
+        }
+        GetComponent<SpriteRenderer>().enabled = false;
+        Destroy(gameObject, Time.maximumDeltaTime);
     }
 }
