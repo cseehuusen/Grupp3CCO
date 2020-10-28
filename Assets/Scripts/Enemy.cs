@@ -11,6 +11,7 @@ public class Enemy : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 movement;
     private Animator anim;
+    private bool hitbefore = false;
 
     // Start is called before the first frame update
     void Start()
@@ -66,8 +67,12 @@ public class Enemy : MonoBehaviour
          }
     void Die()
     {
+        if (hitbefore ==false)
+        {
         Data.Kills +=1;
         Destroy(gameObject);
-        Debug.Log("antal kills är nu " + Data.Kills);
+            Debug.Log("antal kills är nu " + Data.Kills);
+        hitbefore = true;
+        }
     }
 }
