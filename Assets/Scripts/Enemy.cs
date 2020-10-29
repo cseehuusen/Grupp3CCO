@@ -55,6 +55,7 @@ public class Enemy : MonoBehaviour
             anim.SetBool("meleeRange", true);
             stabrange = true;
             GetComponent<AudioSource>().Play();
+
         }
     }
 
@@ -62,7 +63,6 @@ public class Enemy : MonoBehaviour
     {
         anim.SetBool("meleeRange", false);
         GetComponent<AudioSource>().Stop();
-        stabrange = false;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -70,9 +70,11 @@ public class Enemy : MonoBehaviour
         playerController player = collision.GetComponent<playerController>();
         if (player != null)
         {
-            if (stabrange)
+            Debug.Log("Vi kommer hit iaf");
+            if (stabrange==true)
             {
-                player.TakeDamage(5);
+                Debug.Log("Spelaren borde ta skada?");
+                player.TakeDamage(20);
             }
         }
     }

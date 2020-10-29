@@ -14,16 +14,21 @@ public class stateAtGameOver : MonoBehaviour
         int pills = Data.Medicine;
         int toiletpaper = Data.TP;
         int ammo = Data.Ammo;
+        int samlat = ammo + pills + toiletpaper;
 
-        switch (kills,pills,toiletpaper,ammo):
-            case (kills == 0, pills == 0; toiletpaper ==0, ammo ==0):
-        break;
+        switch (samlat)
+        {
+            case (0):
+                GameOver.text = "GAME OVER!!! \n You brought a shotgun to a knife fight and got nowhere...";
+                break;
+            case (1):
+                GameOver.text = "GAME OVER!!! \n You failed to collect all items needed for your survival";
+                break;
+            case (2):
+                GameOver.text = "GAME OVER!!! \n You failed to collect all items needed for your survival";
+                break;
 
-    }
+        }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
