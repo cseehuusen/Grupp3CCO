@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: b8a72d2a17c9e5646af7311679998f4c
   - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 062a1887cf55b214a9cd5f304d8c2455
+  - enabled: 1
     path: Assets/Scenes/ParkingBeforeShoppingCenter.unity
     guid: 91af0315d14677945987b92ac652f96a
   - enabled: 1
