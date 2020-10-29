@@ -23,44 +23,48 @@ public class Enemy : MonoBehaviour
     }
 
     // Update is called once per frame
- 
+
     void Update()
     {
-        if (detectPC ==true)
+        if (detectPC == true)
         {
-        Vector3 direction = player.position - transform.position;
-        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-        rb.rotation = angle;
-        direction.Normalize();
-        movement = direction;
+            Vector3 direction = player.position - transform.position;
+            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+            rb.rotation = angle;
+            direction.Normalize();
+            movement = direction;
         }
     }
     private void FixedUpdate()
     {
         if (detectPC == true)
         {
-        moveCharacter(movement);
+            moveCharacter(movement);
         }
     }
+
     void moveCharacter(Vector2 direction)
     {
         rb.MovePosition((Vector2)transform.position + (direction * moveSpeed * Time.deltaTime));
     }
 
-        private void OnCollisionEnter2D(Collision2D collision)
-
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
         {
-         anim.SetBool("meleeRange", true);
-        stabrange = true;
-        GetComponent<AudioSource>().Play();
+            anim.SetBool("meleeRange", true);
+            stabrange = true;
+            GetComponent<AudioSource>().Play();
         }
+    }
 
-        private void OnCollisionExit2D(Collision2D collision)
-        {
-         anim.SetBool("meleeRange", false);
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        anim.SetBool("meleeRange", false);
         GetComponent<AudioSource>().Stop();
         stabrange = false;
     }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         playerController player = collision.GetComponent<playerController>();
@@ -68,28 +72,30 @@ public class Enemy : MonoBehaviour
         {
             if (stabrange)
             {
-            player.TakeDamage(5);
+                player.TakeDamage(5);
             }
         }
     }
-        public void TakeDamage (int damage)
-         {
-            health -= damage;
 
-            if (health <=0)
-            {
-                Die();
-            }
+    public void TakeDamage(int damage)
+    {
+        health -= damage;
 
-         }
+        if (health <= 0)
+        {
+            Die();
+        }
+
+    }
+
     void Die()
     {
-        if (hitbefore ==false)
+        if (hitbefore == false)
         {
-        Data.Kills +=1;
-        Destroy(gameObject);
+            Data.Kills += 1;
+            Destroy(gameObject);
             Debug.Log("antal kills är nu " + Data.Kills);
-        hitbefore = true;
+            hitbefore = true;
         }
     }
 }

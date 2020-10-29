@@ -8,8 +8,8 @@ public class detectionTrigger : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-        Enemy detectionVar = GetComponentInParent<Enemy>();
-        detectionVar.detectPC = true;
+            Enemy detectionVar = GetComponentInParent<Enemy>();
+            detectionVar.detectPC = true;
         }
 
 

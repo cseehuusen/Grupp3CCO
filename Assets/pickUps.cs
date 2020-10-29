@@ -25,7 +25,7 @@ public class pickUps : MonoBehaviour
                 break;
         }
         Destroy(gameObject);
-     
+
 
     }
 }
