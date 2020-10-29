@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: b8a72d2a17c9e5646af7311679998f4c
   - enabled: 1
-    path: Assets/Scenes/Intro.unity
-    guid: 062a1887cf55b214a9cd5f304d8c2455
+    path: Assets/Scenes/Intro 1.unity
+    guid: 66e83e7c976ed174883b94d2a630f982
   - enabled: 1
     path: Assets/Scenes/ParkingBeforeShoppingCenter.unity
     guid: 91af0315d14677945987b92ac652f96a
@@ -21,9 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/ParkingAfterShoppingCenter.unity
     guid: 61b1883e7ab1f0f4fbf5606fe8be4082
   - enabled: 1
-    path: Assets/Scenes/Chrills.unity
-    guid: 70f0b951ebce2cc47a64414199313654
-  - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: 608ad782376040242857225ad415812e
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 8b5fd7a8dac7a1b42b7de4b3f4b7252a
   m_configObjects: {}
