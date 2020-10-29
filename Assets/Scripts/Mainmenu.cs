@@ -13,4 +13,9 @@ public class Mainmenu : MonoBehaviour {
         Debug.Log("vi avslutar spelet");
         Application.Quit();
     }
+
+    public void Continue()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
 }
