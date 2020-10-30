@@ -414,9 +414,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The corona virus rose from the ashes of the pandemic. their war to exterminate
-    mankind had raged for decades, but the final battle would not be fought in the
-    future. It would be fought here, in our present....
+  m_text: The corona pandemic is killing mankind. The survivors has devided into
+    two camps. The survavilaist and the horders. You arrive outside ullared looking
+    for supplies hoping that the madness has not spread here.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1ffe8a05c19da3542acaec220b94a8f6, type: 2}
   m_sharedMaterial: {fileID: -5756854047086694911, guid: 1ffe8a05c19da3542acaec220b94a8f6, type: 2}
@@ -443,14 +443,14 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 35.7
+  m_fontSize: 33.6
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 8
+  m_HorizontalAlignment: 16
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -973,7 +973,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: In the parking lot at Ullared
+  m_text: You need to find ammo, medicin and toiletpapper and make your way back
+    to the yellow car
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1ffe8a05c19da3542acaec220b94a8f6, type: 2}
   m_sharedMaterial: {fileID: -5756854047086694911, guid: 1ffe8a05c19da3542acaec220b94a8f6, type: 2}
