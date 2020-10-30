@@ -52,7 +52,6 @@ public class Enemy2 : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-           // anim.SetBool("meleeRange", true);
             stabrange = true;
            // GetComponent<AudioSource>().Play();
             collision.gameObject.SendMessage("TakeDamage", 20);
@@ -68,6 +67,7 @@ public class Enemy2 : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        anim.SetBool("PCDetected", true);
         playerController player = collision.GetComponent<playerController>();
         if (player != null)
         {
