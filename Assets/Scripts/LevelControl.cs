@@ -13,11 +13,7 @@ public class LevelControl : MonoBehaviour
     {
         if (other.CompareTag("Player")) 
         {
-            //Loading level with build levelName
             SceneManager.LoadScene(levelName);
-
-            //Restart level
-            //SceneManager.LoaddScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 }
