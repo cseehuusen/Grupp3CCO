@@ -414,9 +414,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The corona pandemic is killing mankind. The survivors has devided into
-    two camps. The survavilaist and the horders. You arrive outside ullared looking
-    for supplies hoping that the madness has not spread here.
+  m_text: The corona pandemic is killing mankind. The survivors prey on each other.
+    As a former security operative you work for a medical company trying to find
+    a cure. You arrive outside ullared looking for supplies, hoping that the looters
+    haven't stripped it bare yet.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1ffe8a05c19da3542acaec220b94a8f6, type: 2}
   m_sharedMaterial: {fileID: -5756854047086694911, guid: 1ffe8a05c19da3542acaec220b94a8f6, type: 2}
@@ -443,7 +444,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 33.6
+  m_fontSize: 31.95
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -973,8 +974,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: You need to find ammo, medicin and toiletpapper and make your way back
-    to the yellow car
+  m_text: You need to find ammo, medicine and toiletpapper and make your way back
+    to your ride, your efforts to stay in the shadows somewhat hindered by your bright
+    yellow car.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1ffe8a05c19da3542acaec220b94a8f6, type: 2}
   m_sharedMaterial: {fileID: -5756854047086694911, guid: 1ffe8a05c19da3542acaec220b94a8f6, type: 2}
@@ -1037,7 +1039,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 1
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -208.56348, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
