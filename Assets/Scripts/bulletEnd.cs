@@ -14,6 +14,11 @@ public class bulletEnd : MonoBehaviour
             {
                 enemy.TakeDamage(100);
             }
+            Enemy2 enemy2 = collision.GetComponent<Enemy2>();
+            if (enemy2 != null && hasHitBefore == false)
+            {
+                enemy2.TakeDamage(100);
+            }
 
             GetComponent<SpriteRenderer>().enabled = false;
             Destroy(gameObject, Time.maximumDeltaTime);

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class Enemy2 : MonoBehaviour
 {
     public int health = 100;
 
@@ -29,7 +29,7 @@ public class Enemy : MonoBehaviour
         if (detectPC == true)
         {
             Vector3 direction = player.position - transform.position;
-            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg -90f;
             rb.rotation = angle;
             direction.Normalize();
             movement = direction;
@@ -52,9 +52,9 @@ public class Enemy : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            anim.SetBool("meleeRange", true);
+           // anim.SetBool("meleeRange", true);
             stabrange = true;
-            GetComponent<AudioSource>().Play();
+           // GetComponent<AudioSource>().Play();
             collision.gameObject.SendMessage("TakeDamage", 20);
             
         }
@@ -62,8 +62,8 @@ public class Enemy : MonoBehaviour
 
     private void OnCollisionExit2D(Collision2D collision)
     {
-        anim.SetBool("meleeRange", false);
-        GetComponent<AudioSource>().Stop();
+       // anim.SetBool("meleeRange", false);
+       // GetComponent<AudioSource>().Stop();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

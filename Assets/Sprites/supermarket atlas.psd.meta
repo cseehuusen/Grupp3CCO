@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: 861332e8118257f45939b0bc3b88f6d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6253884645912904732
+    second: supermarket atlas_0
+  - first:
+      213: -4595564097503697204
+    second: supermarket atlas_1
+  - first:
+      213: 2488682241760258165
+    second: supermarket atlas_2
+  - first:
+      213: 964534392491348456
+    second: supermarket atlas_3
+  - first:
+      213: -5041737863958238092
+    second: supermarket atlas_4
+  - first:
+      213: 5425354893373331293
+    second: supermarket atlas_5
+  - first:
+      213: 2897092479431235306
+    second: supermarket atlas_6
+  - first:
+      213: -61972235850386658
+    second: supermarket atlas_7
+  - first:
+      213: -7925483090063576646
+    second: supermarket atlas_8
+  - first:
+      213: 7241530927359433997
+    second: supermarket atlas_9
+  - first:
+      213: 8246161704352637778
+    second: supermarket atlas_10
+  - first:
+      213: 8442239435977684010
+    second: supermarket atlas_11
+  - first:
+      213: -620613855541279097
+    second: supermarket atlas_12
+  - first:
+      213: 851132428696613920
+    second: supermarket atlas_13
+  - first:
+      213: -2268736524134571328
+    second: supermarket atlas_14
+  - first:
+      213: -2143225982635645532
+    second: supermarket atlas_15
+  - first:
+      213: -4254464093161528322
+    second: supermarket atlas_16
+  - first:
+      213: -7876749414903528835
+    second: supermarket atlas_17
+  - first:
+      213: -538217278492285155
+    second: supermarket atlas_18
+  - first:
+      213: -8634149876945431583
+    second: supermarket atlas_19
+  - first:
+      213: 346133385465378884
+    second: supermarket atlas_20
+  - first:
+      213: -5889611955245266719
+    second: supermarket atlas_21
+  - first:
+      213: -5221025109553626111
+    second: supermarket atlas_22
+  - first:
+      213: -7704731554657888833
+    second: supermarket atlas_23
+  - first:
+      213: -5213506188401610422
+    second: supermarket atlas_24
+  - first:
+      213: 5823952473426073687
+    second: supermarket atlas_25
+  - first:
+      213: -696584447150063233
+    second: supermarket atlas_26
+  - first:
+      213: -6790807172817178957
+    second: supermarket atlas_27
+  - first:
+      213: -2277268172309180001
+    second: supermarket atlas_28
+  - first:
+      213: 1091036229271649665
+    second: supermarket atlas_29
+  - first:
+      213: 9184556094232815454
+    second: supermarket atlas_30
+  - first:
+      213: 4674057521948353197
+    second: supermarket atlas_31
+  - first:
+      213: -1698968630208341708
+    second: supermarket atlas_32
+  - first:
+      213: -776881275145806200
+    second: supermarket atlas_33
+  - first:
+      213: 3733885646821976614
+    second: supermarket atlas_34
+  - first:
+      213: -7759950672933669434
+    second: supermarket atlas_35
+  - first:
+      213: 7885251399138292812
+    second: supermarket atlas_36
+  - first:
+      213: -6321284875058433336
+    second: supermarket atlas_37
+  - first:
+      213: -2203022506361695671
+    second: supermarket atlas_38
+  - first:
+      213: -2978072744737067014
+    second: supermarket atlas_39
+  - first:
+      213: 7983980390658073696
+    second: supermarket atlas_40
+  - first:
+      213: 6975855824769472052
+    second: supermarket atlas_41
+  - first:
+      213: 9155096538962055498
+    second: supermarket atlas_42
+  - first:
+      213: 1106455287272848214
+    second: supermarket atlas_43
+  - first:
+      213: -6313927716978633576
+    second: supermarket atlas_44
+  - first:
+      213: 2202693336149231185
+    second: supermarket atlas_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermarket atlas_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 383
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb771e8c0db539a0800000000000000
+      internalID: -6253884645912904732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 378
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6e0c93dc64930c0800000000000000
+      internalID: -4595564097503697204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 412
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57861f23053998220800000000000000
+      internalID: 2488682241760258165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 412
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1181e6be6b26d00800000000000000
+      internalID: 964534392491348456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 412
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ce1200026280ab0800000000000000
+      internalID: -5041737863958238092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 409
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57d1ffd78bba4b40800000000000000
+      internalID: 5425354893373331293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 418
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae654f5b24a843820800000000000000
+      internalID: 2897092479431235306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 407
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1373307494d32ff0800000000000000
+      internalID: -61972235850386658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 376
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1356fde17030290800000000000000
+      internalID: -7925483090063576646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 376
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d934bd2061f7460800000000000000
+      internalID: 7241530927359433997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 376
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2536e5c4160407270800000000000000
+      internalID: 8246161704352637778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 376
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a247e32c90cd82570800000000000000
+      internalID: 8442239435977684010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_12
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 311
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786c6cd8cf22367f0800000000000000
+      internalID: -620613855541279097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 383
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024f6453f64dfcb00800000000000000
+      internalID: 851132428696613920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 383
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2210ec624d380e0800000000000000
+      internalID: -2268736524134571328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 383
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a56d97f25bb142e0800000000000000
+      internalID: -2143225982635645532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 378
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3e379c27b15f4c0800000000000000
+      internalID: -4254464093161528322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72c8e3d32a20b290800000000000000
+      internalID: -7876749414903528835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 379
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d176d7f9c3ed788f0800000000000000
+      internalID: -538217278492285155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 382
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e35f2fbe665d2880800000000000000
+      internalID: -8634149876945431583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 301
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448319dea76bdc400800000000000000
+      internalID: 346133385465378884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 344
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e846b69125e34ea0800000000000000
+      internalID: -5889611955245266719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 302
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10449a533513b87b0800000000000000
+      internalID: -5221025109553626111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 333
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb59fd2f87b431590800000000000000
+      internalID: -7704731554657888833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 312
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4175067eb7e5a7b0800000000000000
+      internalID: -5213506188401610422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 310
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758915ffae5d2d050800000000000000
+      internalID: 5823952473426073687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_26
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 318
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f710f8fc22c3556f0800000000000000
+      internalID: -696584447150063233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_27
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 317
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beae060bd432c1a0800000000000000
+      internalID: -6790807172817178957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 323
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91553ba9a48560e0800000000000000
+      internalID: -2277268172309180001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 302
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d71d28ba3242f00800000000000000
+      internalID: 1091036229271649665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_30
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 321
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5765681b19167f70800000000000000
+      internalID: 9184556094232815454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 302
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2697f4d869dd040800000000000000
+      internalID: 4674057521948353197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 200
+        width: 128
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43956e7480d0c68e0800000000000000
+      internalID: -1698968630208341708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_33
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 235
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e184aa896f735f0800000000000000
+      internalID: -776881275145806200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 234
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ae0ca763d61d330800000000000000
+      internalID: 3733885646821976614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_35
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 233
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c53c391afd1f4490800000000000000
+      internalID: -7759950672933669434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_36
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 236
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c443a42ae5a0e6d60800000000000000
+      internalID: 7885251399138292812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_37
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 231
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2b712d5e84648a0800000000000000
+      internalID: -6321284875058433336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_38
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 234
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942de1cd3ba4d61e0800000000000000
+      internalID: -2203022506361695671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_39
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 162
+        width: 68
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affacaefd92cba6d0800000000000000
+      internalID: -2978072744737067014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_40
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 162
+        width: 68
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064ebd64ddbccce60800000000000000
+      internalID: 7983980390658073696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 105
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43659b7b9e73fc060800000000000000
+      internalID: 6975855824769472052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 31
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41dd31ebcf6d0f70800000000000000
+      internalID: 9155096538962055498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 100
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b30c5b83bea5f00800000000000000
+      internalID: 1106455287272848214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894defba13c6068a0800000000000000
+      internalID: -6313927716978633576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarket atlas_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 15
+        width: 320
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1568b4a3be9819e10800000000000000
+      internalID: 2202693336149231185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
