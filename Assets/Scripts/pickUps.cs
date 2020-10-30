@@ -7,6 +7,9 @@ public class pickUps : MonoBehaviour
     private string Itemname;
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        if (collision.CompareTag("Player"))
+        {
+
         Itemname = gameObject.name;
         switch (Itemname)
         {
@@ -25,6 +28,7 @@ public class pickUps : MonoBehaviour
                 break;
         }
         Destroy(gameObject);
+        }
 
 
     }
