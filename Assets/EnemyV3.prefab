@@ -200,7 +200,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   player: {fileID: 0}
-  moveSpeed: 2
+  moveSpeed: 3
   detectPC: 0
 --- !u!95 &3344080309318866002
 Animator:

@@ -28,6 +28,7 @@ public class Enemy2 : MonoBehaviour
     {
         if (detectPC == true)
         {
+            anim.SetBool("PCDetected", true);
             Vector3 direction = player.position - transform.position;
             float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg -90f;
             rb.rotation = angle;
@@ -67,7 +68,6 @@ public class Enemy2 : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        anim.SetBool("PCDetected", true);
         playerController player = collision.GetComponent<playerController>();
         if (player != null)
         {
